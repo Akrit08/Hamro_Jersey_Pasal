@@ -1,0 +1,45 @@
+.body {
+  max-width: 750px;
+  background: radial-gradient(rgb(109, 84, 170), transparent);
+}
+.menu-color {
+  background-color: rgb(173, 148, 233);
+  color: rgb(41, 68, 68);
+}
+.pic-color {
+  background-color: rgb(109, 84, 170);
+}
+.quote {
+  font-size: 0.85em;
+  font-style: italic;
+  margin-bottom: 0;
+}
+.mySlides {
+  display: none;
+  width: 100%;
+  height: 20rem !important;
+}
+.myLabels {
+  display: none;
+}
+.error.w3-center{
+  color: rgb(226, 15, 15);
+  background: radial-gradient(rgb(215, 239, 38), transparent);
+}
+table.item{
+  border-spacing: 0;
+  margin-bottom: 5px;
+}
+table.item th, table.item td{
+  padding: 4px;
+  border: 1px solid rgb(109, 84, 170);
+}
+td.right{
+  text-align: right;
+}
+td.left{
+  text-align: left;
+}
+td.center{
+  text-align: center;
+}

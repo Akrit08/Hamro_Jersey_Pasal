@@ -1,0 +1,219 @@
+    {
+        "_id": 1,
+        "author": "Cristiano Ronaldo",
+        "text": "We don't want to tell our dreams. We want to show them.",
+        "adjective": "inspirational"
+    }
+    {
+        "_id": 2,
+        "author": "Lionel Messi",
+        "text": "You have to fight to reach your dream. You have to 
+        sacrifice and work hard for it.",
+        "adjective": "motivating"
+    }
+    {
+        "_id": 3,
+        "author": "LeBron James",
+        "text": "Don't be afraid of failure. This is the way to succeed.",
+        "adjective": "encouraging"
+    }
+    {
+        "_id": 4,
+        "author": "Pele",
+        "text": "The more difficult the victory, the greater the happiness 
+        in winning.",
+        "adjective": "lovely"
+    }
+    {
+        "_id": 5,
+        "author": "Michael Jordan",
+        "text": "You have to expect things of yourself before you can do 
+        them",
+        "adjective": "insightful"
+    }
+    {
+        "_id": 6,
+        "author": "Michael Phelps",
+        "text": "You can't put a limit on anything. The more you dream, the 
+        farther you get.",
+        "adjective": "uplifting"
+    }
+    {
+        "_id": 7,
+        "author": "Tom Brady",
+        "text": "I would never do anything outside of the rules of play.",
+        "adjective": "positive"
+    }
+    {
+        "_id": 8,
+        "author": "Tiger Woods",
+        "text": "If you come in second, you're just the first loser!",
+        "adjective": "wise"
+    }
+    {
+        "_id": 9,
+        "author": "Arnold Schwarzenegger",
+        "text": "Strength does not come from winning. Your struggles develop 
+        your strengths.",
+        "adjective": "powerful"
+    }
+    {
+        "_id": 10,
+        "author": "Cristiano Ronaldo",
+        "text": "It is my conviction that here are no limits to learning, 
+        and that it can never stop, no matter what our age.",
+        "adjective": "promising"
+    }
+    {
+        "_id": 11,
+        "author": "Kobe Bryant",
+        "text": "Everything negative — pressure, challenges — are all an 
+        opportunity for me to rise.",
+        "adjective": "optimistic"
+    }
+    {
+        "_id": 12,
+        "author": "Chuck Daly",
+        "text": "If you're going to have to beg them to play, it's not going 
+        to work.",
+        "adjective": "heartening"
+    }
+    {
+        "_id": 13,
+        "author": "Ronaldinho",
+        "text": "God gives gifts to everyone, some can write, some can dance.
+        ",
+        "adjective": "advisory"
+    }
+    {
+        "_id": 14,
+        "author": "David Beckham",
+        "text": "I know that if I set my mind to do something, even if 
+        people are saying I can't do it, I will achieve it.",
+        "adjective": "dedicational"
+    }
+    {
+        "_id": 15,
+        "author": "Sir Alex Ferguson",
+        "text": "Once you bid farewell to discipline you say goodbye to 
+        success",
+        "adjective": "insightful"
+    }
+    {
+        "_id": 16,
+        "author": "Dennis Bergkamp",
+        "text": "Behind every kick of the ball, there has to be a thought.",
+        "adjective": "visionary"
+    }
+    {
+        "_id": 17,
+        "author": "José Mourinho",
+        "text": "I'm a European champion. I'm not one out of the bottle, I 
+        think I'm a special one.",
+        "adjective": "humorous"
+    }
+    {
+        "_id": 18,
+        "author": "Pep Guardiola",
+        "text": "If you train badly, you play badly. If you work like a 
+        beast in training, you play the same way.",
+        "adjective": "inspirational"
+    }
+    {
+        "_id": 19,
+        "author": "Arsene Wenger",
+        "text": "Football is an art like dancing is an art - but only when 
+        it's well done does it become an art.",
+        "adjective": "factual"
+    }
+    {
+        "_id": 20,
+        "author": "Ray Lewis",
+        "text": "No matter the circumstances that you may be going through, 
+        just push through it.",
+        "adjective": "hopeful"
+    }
+    {
+        "_id": 21,
+        "author": "Floyd Mayweather",
+        "text": "It's about having personality…it's not about being the bad 
+        guy, it's about entertaining people.",
+        "adjective": "positive"
+    }
+    {
+        "_id": 22,
+        "author": "Usain Bolt",
+        "text": "Don't think about the start of the race, think about the 
+        ending.",
+        "adjective": "exciting"
+    }
+    {
+        "_id": 23,
+        "author": "Alex Morgan",
+        "text": "Everybody has a talent, but it's what you do with it that 
+        makes it great.  ",
+        "adjective": "insightful"
+    }
+    {
+        "_id": 24,
+        "author": "Cristiano Ronaldo",
+        "text": "I see myself as the best footballer in the world. If you 
+        don't believe you are the best, then you will never achieve all that 
+        you are capable of.",
+        "adjective": "commited"
+    }
+    {
+        "_id": 25,
+        "author": "Jurgen Klopp",
+        "text": "The challenge is to stay cool enough to handle the pressure 
+        in the moment so that you can succeed in the future.",
+        "adjective": "supportive"
+    }
+    {
+        "_id": 26,
+        "author": "Sir Alex Ferguson",
+        "text": "You learn more from defeats than you do from victories",
+        "adjective": "victorious"
+    }
+    {
+        "_id": 27,
+        "author": "Paul Pogba",
+        "text": "When I say I want to become a legend, some people say it's 
+        pretentious. For me, it's a challenge. My desire, a dream. I'm not 
+        saying I'll get there, but it's what I want.",
+        "adjective": "uplifting"
+    }
+    {
+        "_id": 28,
+        "author": "Cristiano Ronaldo",
+        "text": "Winning - that's the most important to me. It's as simple 
+        as that.",
+        "adjective": "successful"
+    }
+    {
+        "_id": 29,
+        "author": "Bruno Fernandes",
+        "text": "I will give everything for the badge.",
+        "adjective": "loyal"
+    }
+    {
+        "_id": 30,
+        "author": "Diego Maradona",
+        "text": "To see the ball, to run after it, makes me the happiest man 
+        in the world.",
+        "adjective": "cheerful"
+    }
+    {
+        "_id": 31,
+        "author": "Neymar Jr",
+        "text": "There is no pressure when you are making a dream come true.
+        ",
+        "adjective": "dreamy"
+    }
+    {
+        "_id": 32,
+        "author": "Wayne Rooney",
+        "text": "I just hate losing and that gives you an extra 
+        determination to work harder.",
+        "adjective": "inspirational"
+    }
