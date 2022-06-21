@@ -1,14 +1,22 @@
-This Website is about a self made up company called Hamro Jersey Pasal.
-The site contains About, register, login, logout, products, contact and cart
-pages. We can create accounts, and put products in cart and buy them if the
-number requested is less than the number in stock.
+This Website is about a self made up E-Store Company called Hamro Jersey Pasal.
+-- The site contains About, E-Store, Events, Feedback, Registration, Login, Logout, 
+   Catalog, Offers, Checkout, Sitemap, Vision, Shopping Cart pages. 
+-- Customers can create accounts, login, logout, fill feedback form and submit.
+-- Customers can navigate throughout the website by using the links in the sitemap. 
+-- Registered users can put products in their shopping cart and buy them if the
+   number requested is less than the number in stock using checkout.
+
 I set up my MySQL tables by creating table followed by loading in a data 
 file. I used single product table.
 
-The cart displays the added items, deletes the orphaned order items.
-Displays specified error if invalid number or value less than stock is 
-ordered. Successful order will display updated cart, and receipt in checkout
-when all required specifications are met. 
+-- The cart displays the added items, deletes the orphaned order items.
+-- Displays specified error if invalid number or value less than stock is 
+   ordered. 
+-- Successful order will display in updated cart, and the receipt in checkout
+   when all required specifications are met.
+-- The site also has a logo and displays time and different quotes everyday selected
+   in random from the quotes in the database. 
+-- Displays products with its label in a certain time frame.
 
 Images Copyright links:
 1.-> https://www.fanatics.com/nfl/kansas-city-chiefs/
