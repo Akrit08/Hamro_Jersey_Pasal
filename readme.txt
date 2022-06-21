@@ -1,6 +1,7 @@
 This Website is about a self made up E-Store Company called Hamro Jersey Pasal.
--- The site contains About, E-Store, Events, Feedback, Registration, Login, Logout, 
-   Catalog, Offers, Checkout, Sitemap, Vision, Shopping Cart pages. 
+-- The site contains About, E-Store, Events, Feedback, Location, Contacts, 
+   Registration, Login, Logout, Catalog, Offers, Checkout, Sitemap, Vision, 
+   Shopping Cart pages. 
 -- Customers can create accounts, login, logout, fill feedback form and submit.
 -- Customers can navigate throughout the website by using the links in the sitemap. 
 -- Registered users can put products in their shopping cart and buy them if the
