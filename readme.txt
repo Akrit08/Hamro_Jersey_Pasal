@@ -1,5 +1,7 @@
-Based on the instructions and requirements given for submission 6, 
-my website works properly and meets all the requirements specified.
+This Website is about a self made up company called Hamro Jersey Pasal.
+The site contains About, register, login, logout, products, contact and cart
+pages. We can create accounts, and put products in cart and buy them if the
+number requested is less than the number in stock.
 I set up my MySQL tables by creating table followed by loading in a data 
 file. I used single product table.
 
