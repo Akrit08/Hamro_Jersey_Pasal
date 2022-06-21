@@ -6,10 +6,9 @@ This Website is about a self made up E-Store Company called Hamro Jersey Pasal.
 -- Customers can navigate throughout the website by using the links in the sitemap. 
 -- Registered users can put products in their shopping cart and buy them if the
    number requested is less than the number in stock using checkout.
-
-I set up my MySQL tables by creating table followed by loading in a data 
-file. I used single product table.
-
+-- Set up with MySQL tables that creates, updates and deletes products and registered
+   users by creating table followed by loading in a data file. 
+   I used single product table.
 -- The cart displays the added items, deletes the orphaned order items.
 -- Displays specified error if invalid number or value less than stock is 
    ordered. 
