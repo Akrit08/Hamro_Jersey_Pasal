@@ -1,4 +1,5 @@
 This Website is about a self made up E-Store Company called Hamro Jersey Pasal.
+It is an individual project for Advanced Web Programming course.
 -- The site contains About, E-Store, Events, Feedback, Location, Contacts, 
    Registration, Login, Logout, Catalog, Offers, Checkout, Sitemap, Vision, 
    Shopping Cart pages. 
